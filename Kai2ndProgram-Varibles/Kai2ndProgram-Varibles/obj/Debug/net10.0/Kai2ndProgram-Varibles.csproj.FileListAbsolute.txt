@@ -1,0 +1,14 @@
+C:\Users\kanis\source\repos\Kai2ndProgram-Varibles\Kai2ndProgram-Varibles\bin\Debug\net10.0\Kai2ndProgram-Varibles.exe
+C:\Users\kanis\source\repos\Kai2ndProgram-Varibles\Kai2ndProgram-Varibles\bin\Debug\net10.0\Kai2ndProgram-Varibles.deps.json
+C:\Users\kanis\source\repos\Kai2ndProgram-Varibles\Kai2ndProgram-Varibles\bin\Debug\net10.0\Kai2ndProgram-Varibles.runtimeconfig.json
+C:\Users\kanis\source\repos\Kai2ndProgram-Varibles\Kai2ndProgram-Varibles\bin\Debug\net10.0\Kai2ndProgram-Varibles.dll
+C:\Users\kanis\source\repos\Kai2ndProgram-Varibles\Kai2ndProgram-Varibles\bin\Debug\net10.0\Kai2ndProgram-Varibles.pdb
+C:\Users\kanis\source\repos\Kai2ndProgram-Varibles\Kai2ndProgram-Varibles\obj\Debug\net10.0\Kai2ndProgram-Varibles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanis\source\repos\Kai2ndProgram-Varibles\Kai2ndProgram-Varibles\obj\Debug\net10.0\Kai2ndProgram-Varibles.AssemblyInfoInputs.cache
+C:\Users\kanis\source\repos\Kai2ndProgram-Varibles\Kai2ndProgram-Varibles\obj\Debug\net10.0\Kai2ndProgram-Varibles.AssemblyInfo.cs
+C:\Users\kanis\source\repos\Kai2ndProgram-Varibles\Kai2ndProgram-Varibles\obj\Debug\net10.0\Kai2ndProgram-Varibles.csproj.CoreCompileInputs.cache
+C:\Users\kanis\source\repos\Kai2ndProgram-Varibles\Kai2ndProgram-Varibles\obj\Debug\net10.0\Kai2ndProgram-Varibles.dll
+C:\Users\kanis\source\repos\Kai2ndProgram-Varibles\Kai2ndProgram-Varibles\obj\Debug\net10.0\refint\Kai2ndProgram-Varibles.dll
+C:\Users\kanis\source\repos\Kai2ndProgram-Varibles\Kai2ndProgram-Varibles\obj\Debug\net10.0\Kai2ndProgram-Varibles.pdb
+C:\Users\kanis\source\repos\Kai2ndProgram-Varibles\Kai2ndProgram-Varibles\obj\Debug\net10.0\Kai2ndProgram-Varibles.genruntimeconfig.cache
+C:\Users\kanis\source\repos\Kai2ndProgram-Varibles\Kai2ndProgram-Varibles\obj\Debug\net10.0\ref\Kai2ndProgram-Varibles.dll

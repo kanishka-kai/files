@@ -1,0 +1,14 @@
+C:\Users\kanis\source\repos\constants and typcasting.cs\constants and typcasting.cs\obj\Debug\net10.0\constants and typcasting.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanis\source\repos\constants and typcasting.cs\constants and typcasting.cs\obj\Debug\net10.0\constants and typcasting.cs.AssemblyInfoInputs.cache
+C:\Users\kanis\source\repos\constants and typcasting.cs\constants and typcasting.cs\obj\Debug\net10.0\constants and typcasting.cs.AssemblyInfo.cs
+C:\Users\kanis\source\repos\constants and typcasting.cs\constants and typcasting.cs\obj\Debug\net10.0\constants and typcasting.cs.csproj.CoreCompileInputs.cache
+C:\Users\kanis\source\repos\constants and typcasting.cs\constants and typcasting.cs\bin\Debug\net10.0\constants and typcasting.cs.exe
+C:\Users\kanis\source\repos\constants and typcasting.cs\constants and typcasting.cs\bin\Debug\net10.0\constants and typcasting.cs.deps.json
+C:\Users\kanis\source\repos\constants and typcasting.cs\constants and typcasting.cs\bin\Debug\net10.0\constants and typcasting.cs.runtimeconfig.json
+C:\Users\kanis\source\repos\constants and typcasting.cs\constants and typcasting.cs\bin\Debug\net10.0\constants and typcasting.cs.dll
+C:\Users\kanis\source\repos\constants and typcasting.cs\constants and typcasting.cs\bin\Debug\net10.0\constants and typcasting.cs.pdb
+C:\Users\kanis\source\repos\constants and typcasting.cs\constants and typcasting.cs\obj\Debug\net10.0\constants and typcasting.cs.dll
+C:\Users\kanis\source\repos\constants and typcasting.cs\constants and typcasting.cs\obj\Debug\net10.0\refint\constants and typcasting.cs.dll
+C:\Users\kanis\source\repos\constants and typcasting.cs\constants and typcasting.cs\obj\Debug\net10.0\constants and typcasting.cs.pdb
+C:\Users\kanis\source\repos\constants and typcasting.cs\constants and typcasting.cs\obj\Debug\net10.0\constants and typcasting.cs.genruntimeconfig.cache
+C:\Users\kanis\source\repos\constants and typcasting.cs\constants and typcasting.cs\obj\Debug\net10.0\ref\constants and typcasting.cs.dll

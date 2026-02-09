@@ -1,0 +1,14 @@
+C:\Users\kanis\source\repos\methods.cs\methods.cs\bin\Debug\net10.0\methods.cs.exe
+C:\Users\kanis\source\repos\methods.cs\methods.cs\bin\Debug\net10.0\methods.cs.deps.json
+C:\Users\kanis\source\repos\methods.cs\methods.cs\bin\Debug\net10.0\methods.cs.runtimeconfig.json
+C:\Users\kanis\source\repos\methods.cs\methods.cs\bin\Debug\net10.0\methods.cs.dll
+C:\Users\kanis\source\repos\methods.cs\methods.cs\bin\Debug\net10.0\methods.cs.pdb
+C:\Users\kanis\source\repos\methods.cs\methods.cs\obj\Debug\net10.0\methods.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanis\source\repos\methods.cs\methods.cs\obj\Debug\net10.0\methods.cs.AssemblyInfoInputs.cache
+C:\Users\kanis\source\repos\methods.cs\methods.cs\obj\Debug\net10.0\methods.cs.AssemblyInfo.cs
+C:\Users\kanis\source\repos\methods.cs\methods.cs\obj\Debug\net10.0\methods.cs.csproj.CoreCompileInputs.cache
+C:\Users\kanis\source\repos\methods.cs\methods.cs\obj\Debug\net10.0\methods.cs.dll
+C:\Users\kanis\source\repos\methods.cs\methods.cs\obj\Debug\net10.0\refint\methods.cs.dll
+C:\Users\kanis\source\repos\methods.cs\methods.cs\obj\Debug\net10.0\methods.cs.pdb
+C:\Users\kanis\source\repos\methods.cs\methods.cs\obj\Debug\net10.0\methods.cs.genruntimeconfig.cache
+C:\Users\kanis\source\repos\methods.cs\methods.cs\obj\Debug\net10.0\ref\methods.cs.dll

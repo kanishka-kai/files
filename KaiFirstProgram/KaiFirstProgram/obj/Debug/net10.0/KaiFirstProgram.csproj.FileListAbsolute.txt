@@ -1,0 +1,14 @@
+C:\Users\kanis\source\repos\KaiFirstProgram\KaiFirstProgram\bin\Debug\net10.0\KaiFirstProgram.exe
+C:\Users\kanis\source\repos\KaiFirstProgram\KaiFirstProgram\bin\Debug\net10.0\KaiFirstProgram.deps.json
+C:\Users\kanis\source\repos\KaiFirstProgram\KaiFirstProgram\bin\Debug\net10.0\KaiFirstProgram.runtimeconfig.json
+C:\Users\kanis\source\repos\KaiFirstProgram\KaiFirstProgram\bin\Debug\net10.0\KaiFirstProgram.dll
+C:\Users\kanis\source\repos\KaiFirstProgram\KaiFirstProgram\bin\Debug\net10.0\KaiFirstProgram.pdb
+C:\Users\kanis\source\repos\KaiFirstProgram\KaiFirstProgram\obj\Debug\net10.0\KaiFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanis\source\repos\KaiFirstProgram\KaiFirstProgram\obj\Debug\net10.0\KaiFirstProgram.AssemblyInfoInputs.cache
+C:\Users\kanis\source\repos\KaiFirstProgram\KaiFirstProgram\obj\Debug\net10.0\KaiFirstProgram.AssemblyInfo.cs
+C:\Users\kanis\source\repos\KaiFirstProgram\KaiFirstProgram\obj\Debug\net10.0\KaiFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\kanis\source\repos\KaiFirstProgram\KaiFirstProgram\obj\Debug\net10.0\KaiFirstProgram.dll
+C:\Users\kanis\source\repos\KaiFirstProgram\KaiFirstProgram\obj\Debug\net10.0\refint\KaiFirstProgram.dll
+C:\Users\kanis\source\repos\KaiFirstProgram\KaiFirstProgram\obj\Debug\net10.0\KaiFirstProgram.pdb
+C:\Users\kanis\source\repos\KaiFirstProgram\KaiFirstProgram\obj\Debug\net10.0\KaiFirstProgram.genruntimeconfig.cache
+C:\Users\kanis\source\repos\KaiFirstProgram\KaiFirstProgram\obj\Debug\net10.0\ref\KaiFirstProgram.dll

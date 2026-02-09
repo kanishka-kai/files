@@ -1,0 +1,14 @@
+C:\Users\kanis\source\repos\classes.cs\classes.cs\bin\Debug\net10.0\classes.cs.exe
+C:\Users\kanis\source\repos\classes.cs\classes.cs\bin\Debug\net10.0\classes.cs.deps.json
+C:\Users\kanis\source\repos\classes.cs\classes.cs\bin\Debug\net10.0\classes.cs.runtimeconfig.json
+C:\Users\kanis\source\repos\classes.cs\classes.cs\bin\Debug\net10.0\classes.cs.dll
+C:\Users\kanis\source\repos\classes.cs\classes.cs\bin\Debug\net10.0\classes.cs.pdb
+C:\Users\kanis\source\repos\classes.cs\classes.cs\obj\Debug\net10.0\classes.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanis\source\repos\classes.cs\classes.cs\obj\Debug\net10.0\classes.cs.AssemblyInfoInputs.cache
+C:\Users\kanis\source\repos\classes.cs\classes.cs\obj\Debug\net10.0\classes.cs.AssemblyInfo.cs
+C:\Users\kanis\source\repos\classes.cs\classes.cs\obj\Debug\net10.0\classes.cs.csproj.CoreCompileInputs.cache
+C:\Users\kanis\source\repos\classes.cs\classes.cs\obj\Debug\net10.0\classes.cs.dll
+C:\Users\kanis\source\repos\classes.cs\classes.cs\obj\Debug\net10.0\refint\classes.cs.dll
+C:\Users\kanis\source\repos\classes.cs\classes.cs\obj\Debug\net10.0\classes.cs.pdb
+C:\Users\kanis\source\repos\classes.cs\classes.cs\obj\Debug\net10.0\classes.cs.genruntimeconfig.cache
+C:\Users\kanis\source\repos\classes.cs\classes.cs\obj\Debug\net10.0\ref\classes.cs.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "KaiFirstProgram/1.0.0": {
+        "runtime": {
+          "KaiFirstProgram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KaiFirstProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

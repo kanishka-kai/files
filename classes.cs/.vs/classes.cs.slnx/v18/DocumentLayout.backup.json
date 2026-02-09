@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanis\\source\\repos\\classes.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACA74AC-CB83-4344-B822-2E2DA1FDABA2}|classes.cs\\classes.cs.csproj|c:\\users\\kanis\\source\\repos\\classes.cs\\classes.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACA74AC-CB83-4344-B822-2E2DA1FDABA2}|classes.cs\\classes.cs.csproj|solutionrelative:classes.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACA74AC-CB83-4344-B822-2E2DA1FDABA2}|classes.cs\\classes.cs.csproj|c:\\users\\kanis\\source\\repos\\classes.cs\\classes.cs\\messeges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACA74AC-CB83-4344-B822-2E2DA1FDABA2}|classes.cs\\classes.cs.csproj|solutionrelative:classes.cs\\messeges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "messeges.cs",
+              "DocumentMoniker": "C:\\Users\\kanis\\source\\repos\\classes.cs\\classes.cs\\messeges.cs",
+              "RelativeDocumentMoniker": "classes.cs\\messeges.cs",
+              "ToolTip": "C:\\Users\\kanis\\source\\repos\\classes.cs\\classes.cs\\messeges.cs*",
+              "RelativeToolTip": "classes.cs\\messeges.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T00:30:19.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanis\\source\\repos\\classes.cs\\classes.cs\\Program.cs",
+              "RelativeDocumentMoniker": "classes.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\kanis\\source\\repos\\classes.cs\\classes.cs\\Program.cs*",
+              "RelativeToolTip": "classes.cs\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T00:14:23.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
